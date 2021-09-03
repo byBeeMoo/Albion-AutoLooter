@@ -1,0 +1,2 @@
+- restore green success text UI
+- implement image recognition to count how many items in body and inventory
